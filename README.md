@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @RealityLG
+- 👀 I’m interested in ...
+--> computer science/Informatik
+- 🌱 I’m currently learning ...
+--> programming stuff
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+-->maennix2005@gmail.com
+
+<!---
+RealityLG/RealityLG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
